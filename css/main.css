@@ -26,3 +26,19 @@ list-style: 1.5;
   border-radius: 10px;
   text-align: left;
 }
+
+.cards img {
+  dsiplay: block;
+  margin: 0 auto 1rem;
+}
+
+.cards strong {
+  dsiplay: block;
+  margin-bottom: 1rem;
+
+  font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
+}
